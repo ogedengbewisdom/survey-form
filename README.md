@@ -1,7 +1,7 @@
 # freecodecamp survey form project
 
 ## Build a Survey Form
-* Objective: Build an app that is functionally similar to [this](https://survey-form.freecodecamp.rocks)
+* Objective: Build an app that is functionally similar to [this survey form](https://survey-form.freecodecamp.rocks)
 
 ## User Stories:
 
@@ -25,4 +25,4 @@
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. **Happy Coding!**
 
-Note: Be sure to add **<link rel="stylesheet" href="styles.css">** in your HTML to link your stylesheet and apply your CSS
+Note: Be sure to add <pre><code><link rel="stylesheet" href="styles.css"></code></pre> in your HTML to link your stylesheet and apply your CSS
